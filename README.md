@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar Gupta</h1>
 
 <h3 align="center">
-Computer Science Student | Software Developer | Building Projects 🚀
+Electronics and Communication Engineering Student | Full Stack Developer | Building Projects 🚀
 </h3>
 
 <p align="center">
@@ -100,7 +100,7 @@ building real-world projects and continuously improving my skills.
 ## 📫 Connect With Me
 
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/aditya-kumar-gupta-a30058290/">
 
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 
