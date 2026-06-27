@@ -81,7 +81,7 @@ building real-world projects and continuously improving my skills.
 |---|---|---|
 | resume-iq | Analyses the resume and give ATS score | React / Node |
 | interview planner | Plans the interview as a whole and give roadmap | Python / React / Node  |
-| A Reliable Job Queue with Dead-Letter Recovery(ongoing) | building your own lightweight version of AWS SQS, RabbitMQ, or Celery. | Go / Postgre SQL / Docker |
+| A Reliable Job Queue with Dead-Letter Recovery(ongoing) | Building your own lightweight version of AWS SQS, RabbitMQ, or Celery. | Go / Postgre SQL / Docker |
 
 
 ---
