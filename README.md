@@ -63,6 +63,13 @@ building real-world projects and continuously improving my skills.
 
 <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb"/>
 
+<img src="https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql"/>
+
+<img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker"/>
+
+
 </p>
 
 
