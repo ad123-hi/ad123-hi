@@ -12,7 +12,7 @@ Electronics and Communication Engineering Student | Full Stack Developer | Build
 
 ## 👨‍💻 About Me
 
-I am a Computer Science student passionate about software development,
+I am a Electronics and Communication Engineering Student and passionate about software development,
 building real-world projects and continuously improving my skills.
 
 - 🌱 Currently learning **Data Structures & Algorithms**
@@ -72,9 +72,9 @@ building real-world projects and continuously improving my skills.
 
 | Project | Description | Tech |
 |---|---|---|
-| Project 1 | Add your project details | React / Node |
-| Project 2 | Add your project details | Python |
-| Project 3 | Add your project details | Java |
+| resume-iq | Analyses the resume and give ATS score | React / Node |
+| interview planner | Plans the interview as a whole and give roadmap | Python / React / Node  |
+| A Reliable Job Queue with Dead-Letter Recovery(ongoing) | building your own lightweight version of AWS SQS, RabbitMQ, or Celery. | Go / Postgre SQL / Docker |
 
 
 ---
